@@ -8,3 +8,4 @@ var colore = prompt('Il tuo colore preferito?');
 document.getElementById('colore').innerHTML = colore
 // console.log(colore);
 document.getElementById('fine').innerHTML = nome + cognome + colore + '20';
+// console.log(fine);
